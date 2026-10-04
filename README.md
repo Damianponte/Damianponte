@@ -1,16 +1,21 @@
-## Hi there 👋
+Hola, soy Damian
 
-<!--
-**Damianponte/Damianponte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudiante de 2.º de Desarrollo de Aplicaciones Multiplataforma (DAM).
 
-Here are some ideas to get you started:
+Después de varios años trabajando en el sector de la construcción, decidí dar un giro profesional y empezar a formarme en desarrollo de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Tecnologías
+
+Actualmente trabajando con
+
+Java · JavaFX · MySQL
+
+También he trabajado con
+
+HTML · CSS · JavaScript
+
+Mi experiencia anterior me ha enseñado algo que también intento aplicar al desarrollo: resolver problemas, trabajar con constancia y aprender haciendo.
+
+Ahora estoy trasladando esa forma de trabajar al mundo del software, aprendiendo nuevas tecnologías y aplicándolas durante mi formación en DAM.
+
+Actualmente sigo aprendiendo, experimentando y avanzando paso a paso.
