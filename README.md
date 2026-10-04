@@ -12,7 +12,11 @@ Java · JavaFX · MySQL
 
 También he trabajado con
 
-HTML · CSS · JavaScript
+HTML · CSS · JavaScript ·JSON · React Native
+
+Herramientas
+
+Git · GitHub · WordPress
 
 Mi experiencia anterior me ha enseñado algo que también intento aplicar al desarrollo: resolver problemas, trabajar con constancia y aprender haciendo.
 
